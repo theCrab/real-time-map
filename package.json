@@ -1,0 +1,31 @@
+{
+  "name": "real-time-map",
+  "version": "1.0.0",
+  "description": "Real time random user location data from nodejs service and display on google map",
+  "main": "service.js",
+  "dependencies": {
+    "bower": "^1.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dennis parsons",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnnsprsns/real-time-map.git"
+  },
+  "keywords": [
+    "nodejs",
+    "googlemap",
+    "map",
+    "api",
+    "real",
+    "time"
+  ],
+  "bugs": {
+    "url": "https://github.com/dnnsprsns/real-time-map/issues"
+  },
+  "homepage": "https://github.com/dnnsprsns/real-time-map#readme"
+}
