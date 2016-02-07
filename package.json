@@ -9,7 +9,8 @@
     "domain": "0.0.1",
     "http": "0.0.0",
     "node-static": "^0.7.7",
-    "opener": "^1.4.1"
+    "opener": "^1.4.1",
+    "socket.io": "^1.4.5"
   },
   "devDependencies": {},
   "scripts": {
