@@ -4,7 +4,12 @@
   "description": "Real time random user location data from nodejs service and display on google map",
   "main": "service.js",
   "dependencies": {
-    "bower": "^1.7.7"
+    "bower": "^1.7.7",
+    "cluster": "^0.7.7",
+    "domain": "0.0.1",
+    "http": "0.0.0",
+    "node-static": "^0.7.7",
+    "opener": "^1.4.1"
   },
   "devDependencies": {},
   "scripts": {
